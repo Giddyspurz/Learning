@@ -1,0 +1,104 @@
+################
+~ GIDDYSPURZ ~
+################
+
+Nslookup,Whois,Dig #General Info $ IP,Whois Runs on TCP 43
+
+WhatWeb Scanner #Website Technology
+
+Fierce #List Of Subdomains
+
+Shodan,Shodan HoneyScore & Shodan Plugins,DNS Dumpster - (Search Engines) #Targets 
+
+Nmap & NSE Scripts,Masscan #Port Scanning
+
+Dirb,Gobuster #Bruteforce Directories
+
+Dmitry #Gathering Website Info
+
+SSLScan #SSL Flaws
+
+Intrace #IP Hops
+
+theHarvester #Email Gathering
+
+sslyze #SSL Scans
+
+sslscan #SSL SCANS
+
+testssl #SSL Scans
+
+WafW00f #Firewall Detection
+
+ZAP && BurpSuite 
+
+Sherlock #Usernames In SocialMedia
+
+WayBack Machine #Versions of Machines
+
+Netcraft #Shows webserver and history os information,server version,uptime stats,ip address owner,host provider
+
+Maltego
+
+Amass #Enum. Targets
+
+Google Dorks # --> Google Dorks:
+https://www.exploit-db.com/google-hacking-
+database
+https://github.com/BullsEye0/google_dork_list
+https://support.google.com/websearch/answer/
+2466433?hl=es&rd=1
+https://antoniogonzalezm.es/tag/intitleindex-of-
+microsoft-iis-server-at/
+https://github.com/GiddySpurz/Google-Dorks
+
+Netcat
+
+Knock 
+
+Recon-ng
+
+Wappalyzer
+
+Flag Proxy #IP $ Country of Web
+
+Netcraft
+
+crt.sh
+
+Altdns
+
+Yougetsignal
+
+IP range finder
+
+Whois
+
+Censys.io
+
+Domain Profiler
+
+ViewDNS
+
+VirusTotal
+
+Photon
+
+LinkFinder
+
+Retire.js
+
+Finding Hidden Parameters (Arjun)
+
+S3 Bucket Recon
+
+TiDos
+
+Email Gathering →  https://hunter.io/
+
+Data Breaches → https://weleakinfo.to
+
+Wappalyzer 
+
+Metagoofil
+
