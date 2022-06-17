@@ -1,2 +1,3 @@
 # Learning-
-Resources for Learning Ethical Hacking,Bug Bounty and Programming
+
+Materials to Aid in Learning Ethical Hacking,Reconnaissance,Attacking Different Web Technologies,Windows/Linux Hacking. 
